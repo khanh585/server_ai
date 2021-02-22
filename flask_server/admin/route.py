@@ -1,6 +1,5 @@
 from flask import render_template, request, redirect, Blueprint
 from flask import jsonify
-import pyodbc
 import torch
 from IPython.display import Image, clear_output
 
